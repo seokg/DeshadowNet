@@ -12,7 +12,7 @@ multi-size training<br />
 data augmentation<br />
 data normalization
 
-### Prerequisites
+##Prerequisites
 ```
 tensorflow
 tensorboard
