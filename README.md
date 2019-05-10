@@ -4,7 +4,6 @@ TensorFlow implementation<br />
 
 ## To Do
 This project is on going<br />
-Does not work yet
 
 > weight decay<br />
 multi-stage training<br />
